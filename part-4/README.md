@@ -101,7 +101,7 @@ Follow the instructions mentioned [here](https://aws.amazon.com/premiumsupport/k
  - Enter Secret key and press Enter 
  - Enter region name and press Enter
  - You can leave the default output format as [None]. Just press Enter
- - Now Boto SDK has been configured. The entered credentials could be found in ~/.aws/config
+ - Now Boto SDK has been configured. The entered credentials could be found in ~/.aws/credentials
  
 # 3) Project Execution
 
